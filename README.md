@@ -13,9 +13,7 @@ Semua Dalam bahasa indonesia
 # if 
   Contoh
     if(a == 1)
-    {
-    
-    }
+    {}
 # else 
  Contoh ; 
   sebaliknya(a == 2)
@@ -23,3 +21,4 @@ Semua Dalam bahasa indonesia
       tulis a "hey jude";
   }
 # Bawah()
+  Membuat text kebawah
