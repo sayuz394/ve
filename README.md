@@ -33,6 +33,7 @@ Semua Dalam bahasa indonesia
     {
        tulis a "test";
     }
+    ```
 # else 
  Contoh ; 
   ```
@@ -42,6 +43,6 @@ Semua Dalam bahasa indonesia
   }
    ```
 # Bawah()
- ```
+
   Membuat text kebawah
-   ```
+
